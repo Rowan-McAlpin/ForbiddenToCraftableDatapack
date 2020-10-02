@@ -13,7 +13,7 @@ You can now craft horse armor of all kinds.\
 You can now craft elytra.\
 You can now craft cobwebs.\
 You can now craft Enchanted Golden Apples (God or Notch or OP Apples)\
-You can now craft the following mob spawners:\
+You can now craft the following mob spawners:
 > 1) Blaze
 > 2) Cave Spider
 > 3) Creeper
