@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "$#$",
+        "#@#",
+        "$#$"
+    ],
+    "key": {
+        "$": {
+            "item": "minecraft:blackstone"
+        },
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+        "@": {
+            "item": "minecraft:dragon_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:'ender_dragon'}}}"
+    }
+}

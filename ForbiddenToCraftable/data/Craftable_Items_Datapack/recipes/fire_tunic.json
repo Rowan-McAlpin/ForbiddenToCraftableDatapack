@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "$ $",
+        "$$$",
+        "$$$"
+    ],
+    "key": {
+        "$": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather_chestplate{display: {Name:'{'text': 'Fire Tunic'}',color: 16351261},Enchantments: [{id: 'minecraft:fire_protection',lvl: 5s},{id: 'minecraft:unbreaking',lvl: 3s}]}"
+    }
+}
